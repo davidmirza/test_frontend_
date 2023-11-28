@@ -1,5 +1,7 @@
 # Testfullstack
 
+## for backend use this repository https://github.com/davidmirza/bckend.git
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
